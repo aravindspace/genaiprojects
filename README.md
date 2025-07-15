@@ -3,7 +3,7 @@
 This project is a **Gemini API-powered chatbot** built with **LangChain** and **Retrieval-Augmented Generation (RAG)**. It allows users to ask questions based on the contents of uploaded **PDFs** or public **URLs**.
 
 🌐 **Live Demo (Hugging Face Space)**:  
-👉 [https://huggingface.co/Aravindspace](https://huggingface.co/Aravindspace)
+👉 [https://huggingface.co/spaces/Aravindspace/Gemini_Powered_Chatbot_for_URL_PDF](https://huggingface.co/spaces/Aravindspace/Gemini_Powered_Chatbot_for_URL_PDF)
 
 ---
 

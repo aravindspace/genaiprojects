@@ -1,4 +1,4 @@
-# 02 Gemini-Powered Chatbot for PDF and URL Q&A
+# Gemini-Powered Chatbot for PDF and URL Q&A
 
 This project is a **Gemini API-powered chatbot** built with **LangChain** and **Retrieval-Augmented Generation (RAG)**. It allows users to ask questions based on the contents of uploaded **PDFs** or public **URLs**.
 
